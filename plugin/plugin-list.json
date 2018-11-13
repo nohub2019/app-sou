@@ -4,7 +4,8 @@
   "data":[
     {
       "name":"com.rb.plugin.sou.test",
-      "url":"https://noreply110.github.io/app-sou/plugin/app_plugin_test-debug.apk"
+      "url":"https://noreply110.github.io/app-sou/plugin/app_plugin_test-debug.apk",
+      "version":1
     }
   ]
 }
